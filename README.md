@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dinh Quoc Tuan Dat</h1>
 <h3 align="center">A person who has the desire to be a professional back end developer</h3>
-<img align="right" alt="Coding" width="400" 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=TuanDatCoder&label=Profile%20views&color=0e75b6&style=flat-square" alt="TuanDatCoder" /> </p>
 
 
